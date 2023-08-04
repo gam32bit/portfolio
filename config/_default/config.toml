@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://gam32bit.github.io"
+baseurl = "https://gam32bit.github.io/portfolio"
 languageCode = "en-us"
 paginate = 5
 title = "Hugo Theme Stack Starter"
