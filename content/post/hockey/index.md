@@ -8,6 +8,7 @@ license:
 hidden: false
 comments: true
 draft: false
+tags: ["News", "Yorktown", "Hockey", "Sports"]
 ---
 
 The owner of the Norfolk Admirals bought the Kiln Creek ice rink earlier this year, and last month the [York County Board of Supervisors approved an agreement](https://www.pilotonline.com/2023/08/02/with-purchase-of-york-county-rink-admirals-owner-aims-to-build-a-bigger-ice-sports-community/) that will allow county residents access to open skating sessions twice a week and hockey classes once a month.
