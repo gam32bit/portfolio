@@ -1,6 +1,7 @@
 ---
 title: Williamsburg Landing Arboretum
 date: 2023-05-02T09:13:14-04:00
+image: https://www.dailypress.com/wp-content/uploads/migration/2023/05/02/7HE6DG4RJZBHZNCTEW4VPFUFSM.jpg?w=780
 tags: ["Environment", "Williamsburg", "News"]
 ---
 
