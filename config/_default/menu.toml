@@ -16,6 +16,22 @@ url = "https://www.linkedin.com/in/joseph-caterine-578a73268/"
 icon = "brand-linkedin"
 
 [[social]]
+identifier = "instagram"
+name = "Instagram"
+url = "https://www.instagram.com/jwcat757/"
+
+[[social.params]]
+icon = "brand-instagram"
+
+[[social]]
+identifier = "youtube"
+name = "Youtube"
+url = "https://www.youtube.com/@JWCat757"
+
+[[social.params]]
+icon = "brand-youtube"
+
+[[social]]
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/gam32bit"
