@@ -1,6 +1,7 @@
 ---
 title: "July Photography"
 date: 2023-07-31T15:33:48-04:00
+image: cw.jpg
 tags: ["Photography", "Colonial Williamsburg", "Williamsburg", "James City County", "Tourism", "Nature"]
 ---
 
