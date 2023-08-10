@@ -25,7 +25,7 @@ math = false
 readingTime = true
 
 [article.license]
-enabled = true
+enabled = false
 default = ""
 
 ## Widgets
