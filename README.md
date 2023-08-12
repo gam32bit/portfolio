@@ -1,54 +1,20 @@
-## Hugo Theme Stack Starter Template
+## Build a Portfolio Website with Hugo (for free)
 
-This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
+I created this [portfolio website](jwcaterine.com) for my freelance writing business and documented the process to teach other writers how to set up their own. This walkthrough is based on the [quickstart guide by theme author CaiJimmy](https://github.com/CaiJimmy/hugo-theme-stack-starter), but mine includes additional steps that may be helpful for users less experienced with programming. Note that if you choose a different theme, the set up will be different, so I’d recommend following this example first to learn the basics, and then you can explore other themes after.
 
-It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
+### What is Hugo?
 
-To get started:
+This project uses [Hugo,](https://www.youtube.com/watch?v=0RKpf3rK57I) a static-site generator, “static” meaning that the elements on the webpage are the same for every user (versus “dynamic” where they change). To use Hugo, you select a [“Theme” from their website,](https://themes.gohugo.io/) and then you can customize the configurations and add posts as markdown files. It is a more affordable alternative to sites like Squarespace or Wordpress, but it does require some grit to set up and maintain.
 
-1. Click *Use this template*, and create your repository on GitHub.
-![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
+You don’t need to be a veteran programmer in order to use Hugo. You do need a [GitHub account](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account) and optionally a custom domain. This is the only part that would cost money, but typically you can find something for less than $20 USD/year. I used [Netlify.](https://docs.netlify.com/domains-https/netlify-dns/domain-registration/)
 
-2. Once the repository is created, create a GitHub codespace asociated with it.
-![Create codespace](https://user-images.githubusercontent.com/5889006/156916672-43b7b6e9-4ffb-4704-b4ba-d5ca40ffcae7.png)
+### Step-by-step guide to launch website in less than an hour
 
-3. And voila! You're ready to go. The codespace has been configured with the latest version of Hugo extended, just run `hugo server` in the terminal and see your new site in action.
+1. Copy theme and set up GitHub pages - On the [“Stack” theme Github template,](https://github.com/CaiJimmy/hugo-theme-stack-starter) click the green “Use this template” button to clone the template as your own repository. Then, go to the settings tab of your new repository and click the “Pages” menu item on the sidebar. Under the “Branch” subheader, select “gh-pages” from the dropdown menu. (If you don’t see it immediately, wait a few minutes). Click “Save.” If you’re using a custom domain, you can enter that below and save also.
+2. Launch Codespace - Click on the “Code” tab on the top, and then click the green “Code” button, and launch a new Codespace. This takes several minutes, but it will open a virtual coding environment in the cloud, so you don’t have to install anything on your local machine. Of course if you’d rather do that, it’s certainly an option.
+3. Set up extensions and “baseurl” in config file - Go to the “Extensions” tab on the sidebar (building blocks icon) and search for “GitHub Actions.” Click the blue install button. Once the new icon appears on the sidebar, click that and make sure you’re signed in to your GitHub account so it syncs. Then, click the File Explorer tab (top-left), you can navigate to the “config.toml” file. At the top, change the link in the quotation marks next to “baseurl” to your domain. If you don’t have a custom domain, that will be “[yourgithubusername].github.io/[yourrepositoryname]”. Save the file.
+4. Use Terminal to build website - if you don’t see a terminal window at the bottom of the screen, you can create a new one from the menu at the top left. Click to the right of the “$” sign and type “hugo” and hit enter. This essentially builds your website based on the changes you made.
+5. Use Git to Launch Website - After you save, you should see a blue bubble with a number appear on one of the sidebar icons. Click it. This is where the [“Git” in “GitHub”](https://www.youtube.com/watch?v=hwP7WQkmECE) comes from - it’s a source control system, similar to how version history works if you’ve ever used that in Microsoft Word. In the box that says “Message” type in a short note to describe the changes you made, in this case something like “update baseurl” and then click the blue button that says “Commit.” Once that processes, click the blue button again to “Sync Changes.” Congrats, you can go to your domain to view your website!
+6. Customize - now that your website is up, you can customize the profile picture and social media links by making changes to the “params.toml” and “menu.toml” file. To create a new post, in the terminal type “hugo new post/[yourpostname]/index.md”, and you will see the new folder and file appear under the “post” folder in your directory. You can modify the frontmatter at the top of your index.md file and [then write your post just like you would on Reddit](https://www.markdownguide.org/) under the dash marks. You can also embed social media posts and other things with [Hugo shortcodes.](https://gohugo.io/content-management/shortcodes/) Watch my video for more details on these steps.
 
-4. Check `config` folder for the configuration files. You can edit them to suit your needs. Make sure to update the `baseurl` property in `config/_default/config.toml` to your site's URL.
-
-5. Once you're done editing the site, just commit it and push it. GitHub action will deploy the site automatically to GitHub page asociated with the repository.
-![GitHub action](https://user-images.githubusercontent.com/5889006/156916881-90b8bb9b-1925-4e60-9d7a-8026cda729bf.png)
----
-
-In case you don't want to use GitHub codespace, you can also run this template in your local machine. **You need to install Git, Go and Hugo extended locally.**
-
-### Update theme manually
-
-Run:
-
-```bash
-hugo mod get -u github.com/CaiJimmy/hugo-theme-stack/v3
-hugo mod tidy
-```
-
-> This starter template has been configured with `v3` version of theme. Due to the limitation of Go module, once the `v4` or up version of theme is released, you need to update the theme manually. (Modifying `config/module.toml` file)
-
-### Deploy to another static page hostings
-
-If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine. 
-
-<details>
-  <summary>Vercel</summary>
-  
-You need to overwrite build command to install manually Go:
-
-```
-amazon-linux-extras install golang1.11 && hugo --gc --minify
-```
-
-![](https://user-images.githubusercontent.com/5889006/156917172-01e4d418-3469-4ffb-97e4-a905d28b8424.png)
-
-Make sure also to specify Hugo version in the environment variable `HUGO_VERSION` (Use the latest version of Hugo extended):
-
-![Environment variable](https://user-images.githubusercontent.com/5889006/156917212-afb7c70d-ab85-480f-8288-b15781a462c0.png)
-</details>
+That’s it! I hope this encourages some of you to give Hugo a try. Like I said before, you’ll need grit to solve problems that come up with your Hugo site, but fortunately there is documentation for most themes you can refer to. The themes are fairly basic and to do anything fancier would require more programming knowledge. I prefer a more minimalist look anyway, so it works for me. Good luck!
