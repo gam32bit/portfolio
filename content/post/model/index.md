@@ -1,5 +1,5 @@
 ---
-title: "VA Ed Policies Not Enforce-able"
+title: "VA Ed Policies Not Enforceable"
 description: "School Boards don't have to adopt Gov. Youngkin's targeting of students."
 date: 2023-08-24T10:58:38Z
 image: https://www.virginiamercury.com/wp-content/uploads/2023/08/McLean_trans_walkout-2048x1365.jpg
