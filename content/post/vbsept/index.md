@@ -1,6 +1,6 @@
 ---
 title: "Virginia Business September Issue"
-description: "Spotsylvania data centers and revitalization prospects in Winchester" Shopping Center"
+description: "Spotsylvania data centers and revitalization prospects in Winchester Shopping Center"
 date: 2023-09-11T12:43:30Z
 image: https://www.virginiabusiness.com/wp-content/uploads/2023/08/VaBiz-Ward-Plaza-0372_WEB-RESIZE_photo-by-Will-Schermerhorn-386x290.jpg
 math: 
