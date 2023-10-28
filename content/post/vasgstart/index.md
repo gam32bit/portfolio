@@ -7,6 +7,7 @@ math:
 license: 
 comments: true
 draft: false
+tags: ["Personal", "Environment", "Technology"]
 ---
 
 This month I accepted a position at [Virginia Sea Grant](https://www.linkedin.com/feed/update/urn:li:activity:7123074859651252224/)! I'll be developing and moderating the [Aquaculture Information Exchange.](https://aquainfoexchange.org/), an online community to connect people in the industry. I won't be freelance reporting anymore, but I'm excited for this new opportunity!

@@ -7,6 +7,7 @@ math:
 license: 
 comments: true
 draft: false
+tags: ["History", "News", "Jamestown"]
 ---
 
 Archaeologists at Historic Jamestowne [found sword and dagger fragments,](https://www.dailypress.com/2023/09/23/jamestown-archaeologists-discover-sword-fragments-in-17th-century-well/) likely from three different weapons, in the "Governor's Well." 

@@ -7,6 +7,7 @@ math:
 license: 
 comments: true
 draft: false
+tags: ["Technology", "Richmond", "News"]
 ---
 
 Activation Capital is working to establish a life sciences innovation center in Richmond, Virginia, to support biotech startups by providing much-needed lab space. I wrote about the [$53 million innovation center](https://www.virginiabusiness.com/article/innovation-center-could-be-boost-for-life-sciences/) in the latest Virginia Business Magazine. The final space is projected to be 107,000 square feet and offer incubator and lab facilities for early-stage biotech companies.

@@ -7,6 +7,7 @@ math:
 license: 
 comments: true
 draft: false
+tags: ["News", "Public Safety", "James City County"]
 ---
 
 [A large brush fire](https://www.dailypress.com/2023/09/28/croaker-brush-fire-still-burning-could-be-even-longer-before-its-extinguised/) in the Croaker area of James City County has been burning for weeks, presenting a unique challenge to the fire department due to its size and intensity. I reported on Fire Chief Ryan Ashe's presentation to the Board of Supervisors on how his team responded.

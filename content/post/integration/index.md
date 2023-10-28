@@ -7,6 +7,7 @@ math:
 license: 
 comments: true
 draft: false
+tags: ["History", "Education", "News"]
 ---
 
 The [Local Black Histories Project](https://sites.google.com/email.wm.edu/localblackhistories) put together a [compelling film](https://www.pilotonline.com/2023/10/10/documentary-shares-stories-of-wjcc-schools-first-integrated-class/) about the experiences of Black students who first integrated in the WJCC school system. There will be another screening at the Williamsburg Regional Library on Sunday, Nov. 19 at 2 PM. 

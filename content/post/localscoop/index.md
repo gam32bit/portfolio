@@ -7,6 +7,7 @@ math:
 license: 
 comments: true
 draft: false
+tags: ["Williamsburg", "Food & Drink", "Culture"]
 ---
 
 This was one of those stories where I just wrote about something I was already doing - [going out to cafes to get work done as a freelance journalist.](https://www.localscoopmagazine.com/food-drink/the-top-williamsburg-caf%C3%A9-getaways-for-remote-workers/) I've never written for a culture magazine like this piece, so I can mark another milestone in my writing career!

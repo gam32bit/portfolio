@@ -7,6 +7,7 @@ math:
 license: 
 comments: true
 draft: false
+tags: ["History", "Jamestown", "News"]
 ---
 
 [This story](https://www.pilotonline.com/2023/10/06/dedication-gives-close-up-look-at-renovation-of-church-tower/) will be my last about Historic Jamestown for the foreseeable future, but I still plan on going back as a visitor, including to see the progress on this project!
