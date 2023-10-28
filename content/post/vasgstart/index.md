@@ -2,7 +2,7 @@
 title: "I now work for VA Sea Grant!"
 description: "I am the Digital Experience Manager for the Aquaculture Information Exchange."
 date: 2023-10-28T16:15:48Z
-image: https://www.facebook.com/photo?fbid=228609180230368&set=pcb.228609206897032
+image: vasg.jpg
 math: 
 license: 
 comments: true
