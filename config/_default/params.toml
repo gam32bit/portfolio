@@ -18,7 +18,7 @@ subtitle = "Digital Experience Manager at Virginia Sea Grant"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/me.jpg"
+src = "img/newprofile.jpg"
 
 [article]
 math = false
