@@ -8,5 +8,6 @@ license:
 comments: true
 draft: false
 ---
-<!-- markdownlint-disable-file MD033 -->
+<!-- markdownlint-disable -->
 <h1>Test Headline</h1>
+<!-- markdownlint-restore -->
