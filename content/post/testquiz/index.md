@@ -9,15 +9,4 @@ comments: true
 draft: false
 ---
 
-<div id="quiz">
-  <h2>Quiz Title</h2>
-  <div id="question-container">
-    <p id="question">Question goes here?</p>
-  </div>
-  <div id="options-container">
-    <button onclick="checkAnswer('option1')">Option 1</button>
-    <button onclick="checkAnswer('option2')">Option 2</button>
-    <!-- Add more options as needed -->
-  </div>
-  <p id="result"></p>
-</div>
+<h1>Test Headline</h1>
