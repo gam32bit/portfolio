@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data Journalism on JW Caterine</title><link>https://jwcaterine.com/tags/data-journalism/</link><description>Recent content in Data Journalism on JW Caterine</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 26 Jun 2023 13:14:14 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/tags/data-journalism/index.xml" rel="self" type="application/rss+xml"/><item><title>First Coding Video Walkthrough</title><link>https://jwcaterine.com/p/first-coding-video-walkthrough/</link><pubDate>Mon, 26 Jun 2023 13:14:14 -0400</pubDate><guid>https://jwcaterine.com/p/first-coding-video-walkthrough/</guid><description>&lt;p>Today I published a &lt;a class="link" href="https://www.virginiamercury.com/2023/06/26/more-patients-in-crisis-falling-through-cracks-of-state-psychiatric-commitment-system/" target="_blank" rel="noopener"
+>story for Virginia Mercury&lt;/a> about failures of the state&amp;rsquo;s psychiatric system, specifically not having enough beds to accomodate those in mental health crisis. I recorded a &lt;a class="link" href="https://www.youtube.com/watch?v=x9IDL8eruAw" target="_blank" rel="noopener"
+>video walkthrough&lt;/a> on how I was able to write some simple code in Python to extract, analyze, and visualize the data from a public records request that became the basis of this story.&lt;/p>
+&lt;p>&lt;img src="https://www.virginiamercury.com/wp-content/uploads/2023/06/lossofcustodyfinalfinal.jpg"
+loading="lazy"
+alt="graph"
+>&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/x9IDL8eruAw"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div></description></item></channel></rss>

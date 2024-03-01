@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tutorial on JW Caterine</title><link>https://jwcaterine.com/tags/tutorial/</link><description>Recent content in Tutorial on JW Caterine</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 22 Jul 2023 10:58:54 -0400</lastBuildDate><atom:link href="https://jwcaterine.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml"/><item><title>Journalism 101</title><link>https://jwcaterine.com/p/journalism-101/</link><pubDate>Sat, 22 Jul 2023 10:58:54 -0400</pubDate><guid>https://jwcaterine.com/p/journalism-101/</guid><description>&lt;p>This week I posted a quick tutorial on &lt;a class="link" href="https://www.reddit.com/r/Journalism/comments/1551k29/how_to_get_into_journalism_with_no_experience/" target="_blank" rel="noopener"
+>Reddit&lt;/a> about how to cover a local government meeting if you want to start a career in journalism:&lt;/p>
+&lt;p>&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/TnzXjfjtlTQ"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;!-- raw HTML omitted -->
+&amp;ldquo;Howdy! For those of you who still want to get into journalism despite the many warnings about why you shouldn&amp;rsquo;t, I wanted to share some advice on how to start as a freelance journalist even if you have no experience. I&amp;rsquo;ve been working in the US news industry since 2016, and I never went to school for journalism.&lt;/p>
+&lt;p>For this post I want to share how you can get what you need to pitch your first article to a local paper and get paid (not much!). I realize I am oversimplifying the crap out of the process, but my goal is to show that it really is easy to get started. Just keep in mind that actually becoming a good journalist takes a lot of time and perseverance.&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Look up local meeting agendas - Google your city or county plus &amp;ldquo;agenda&amp;rdquo; and you should be able to find a website that lists local meetings with the agendas. Look through these and find something that interests you. Do you care about the environment? Look for committees dealing with that. How about affordable housing? Most localities have a planning commission. Of course, the options will depend on the population of where you live, but even if your only choice is City council, board of supervisors, or some equivalent, you can start there.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Pack your gear - When I go to local meetings I bring my camera, an ipad for notes, and an audio recorder, but really you can use your phone to do everything. Having separate tools does make it easier to multitask, so it would be best to bring some sort of notepad to write down notes. You also do not need a camera.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Go to the meeting - okay, this sounds obvious, but I know reporters who will just watch the meeting online instead of going. Especially if it&amp;rsquo;s your first attempt at reporting, it&amp;rsquo;s crucial to physically go. You will pick up on things not captured by the online video, not to mention have the opportunity to follow up with people directly during the meeting or after. I also recommend staying for the entire meeting, not just for the item you&amp;rsquo;re interested in. You never know what can happen!&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Record audio and take notes at the meeting - You can use the video on your phone to record the audio, but also most localities post recordings of meetings shortly after. I prefer to take my own audio so I can turn it into a transcript to use later. If you hear something interesting, write it down and write the time stamp on the recording so you can reference it easily later. Pay attention to what topics members of the board/council/whatever disagree on - controversy is usually newsworthy. Keep an open mind, you may find out about something that will make for a better story than the one you initially went for.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Use notes/audio to make a pitch - I will upload my audio to Google Drive and then use Google Pinpoint (free for journalists) to turn the audio into a transcript. Others have raised concerns about uploading interview recordings to the internet, but in this case what you recorded is public anyway. You do not have to do this step, but in my experience it makes it easier to look up details based on my notes.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>That&amp;rsquo;s it! You have everything you need at this point to write a pitch to send to a local paper. If you&amp;rsquo;re interested in learning how to write a pitch, use Chat-GPT! Lol jk jk - if y&amp;rsquo;all want a tutorial on making a pitch or anything else, let me know and I&amp;rsquo;ll make more videos and posts like this one!&lt;/p>
+&lt;p>I do want to reiterate what other people have said on this subreddit - the journalism industry is really bad for the average reporter right now, especially freelancers. Also, I am proof that you can get into the industry with no experience, but I also went to college where I learned how to write. You don&amp;rsquo;t need to go to college to get started as a journalist, but you do need to know how to write.&lt;/p>
+&lt;p>That being said, I wanted to share this because I haven&amp;rsquo;t given up on journalism as a profession (yet), and it&amp;rsquo;s been encouraging to me to see all the people who have posted on this sub wanting to learn the craft. I hope this post helps y&amp;rsquo;all on that journey. Good luck!&amp;rdquo;&lt;/p></description></item><item><title>First Coding Video Walkthrough</title><link>https://jwcaterine.com/p/first-coding-video-walkthrough/</link><pubDate>Mon, 26 Jun 2023 13:14:14 -0400</pubDate><guid>https://jwcaterine.com/p/first-coding-video-walkthrough/</guid><description>&lt;p>Today I published a &lt;a class="link" href="https://www.virginiamercury.com/2023/06/26/more-patients-in-crisis-falling-through-cracks-of-state-psychiatric-commitment-system/" target="_blank" rel="noopener"
+>story for Virginia Mercury&lt;/a> about failures of the state&amp;rsquo;s psychiatric system, specifically not having enough beds to accomodate those in mental health crisis. I recorded a &lt;a class="link" href="https://www.youtube.com/watch?v=x9IDL8eruAw" target="_blank" rel="noopener"
+>video walkthrough&lt;/a> on how I was able to write some simple code in Python to extract, analyze, and visualize the data from a public records request that became the basis of this story.&lt;/p>
+&lt;p>&lt;img src="https://www.virginiamercury.com/wp-content/uploads/2023/06/lossofcustodyfinalfinal.jpg"
+loading="lazy"
+alt="graph"
+>&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/x9IDL8eruAw"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div></description></item></channel></rss>
